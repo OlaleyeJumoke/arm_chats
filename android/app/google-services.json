@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "724458690025-vf6he1avos4fvk019a22cmuds1e97561.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arm_chats",
+            "certificate_hash": "5e6e6e7343a7c4b9aae5a0271c72beab16e5b1fb"
+          }
+        },
+        {
           "client_id": "724458690025-mit3p600b24gniomt4pme93fs944g8da.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,6 +37,13 @@
             {
               "client_id": "724458690025-mit3p600b24gniomt4pme93fs944g8da.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "724458690025-dtimmvj1748hv1huot5ojklg1nvqidge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.armChats"
+              }
             }
           ]
         }
